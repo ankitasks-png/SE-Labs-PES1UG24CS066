@@ -2,7 +2,7 @@
 
 ## Student Information
 
-- **Name:** Ankita Satish Kumar
+- **Name:** Ankita S
 - **SRN:** PES1UG24CS066
 - **Course:** Software Engineering
 
