@@ -21,6 +21,7 @@ Each laboratory exercise is organized into a separate directory.
 **Domain:** Healthcare & Telemedicine
 
 **Actors:**
+
 - Patient
 - Clinic Administrator
 
@@ -29,24 +30,105 @@ Each laboratory exercise is organized into a separate directory.
 The Lab 1 directory contains:
 
 1. **Requirements Table**
+
    - Functional Requirements: FR-001 to FR-005
    - Non-Functional Requirements: NFR-001 to NFR-002
 
 2. **UML Use-Case Diagram**
+
    - Represents the interactions between the Patient, Clinic Administrator, and the Patient Health Record Consent Management System.
 
 3. **Use-Case Flow Specification**
+
    - Core use case: Grant Time-Bound Consent
    - Includes preconditions, postconditions, main success scenario, and alternate flow.
 
 ### Directory Structure
 
-```text
+```
+Lab1/
+├── requirements-table.md
+├── use-case-flow.md
+└── UML_Use_Case_Diagram.png
+```
+
+## Lab 2 — <<Lab 2 title>>
+
+### Problem Statement
+
+<<one or two lines on what Lab 2 was about>>
+
+### Lab 2 Deliverables
+
+The Lab2 directory contains:
+
+1. **<<Deliverable 1>>** - <<short description>>
+2. **<<Deliverable 2>>** - <<short description>>
+3. **<<Deliverable 3>>** - <<short description>>
+
+### Directory Structure
+
+```
+Lab2/
+├── <<file 1>>
+├── <<file 2>>
+└── <<file 3>>
+```
+
+## Lab 3 — <<Lab 3 title>>
+
+### Problem Statement
+
+<<one or two lines on what Lab 3 was about>>
+
+### Lab 3 Deliverables
+
+The Lab3 directory contains:
+
+1. **<<Deliverable 1>>** - <<short description>>
+2. **<<Deliverable 2>>** - <<short description>>
+
+### Directory Structure
+
+```
+Lab3/
+└── Supporting/
+    ├── <<file 1>>
+    └── <<file 2>>
+```
+
+## Lab 4 — Fishing (Vibe Coding)
+
+### Problem Statement
+
+<<one or two lines on the fishing app / vibe-coding task>>
+
+### Lab 4 Deliverables
+
+The Lab4_Fishing_VibeCoding directory contains:
+
+1. **<<Deliverable 1>>** - <<short description>>
+2. **<<Deliverable 2>>** - <<short description>>
+
+### Directory Structure
+
+```
+Lab4_Fishing_VibeCoding/
+├── <<file 1>>
+└── <<file 2>>
+```
+
+## Complete Repository Structure
+
+```
 SE-Labs-PES1UG24CS066/
 │
 ├── README.md
+├── SE-Labs-PES1UG24CS066.pdf
 │
-└── Lab1/
-    ├── requirements-table.md
-    ├── use-case-flow.md
-    └── UML_Use_Case_Diagram.png
+├── Lab1/
+├── Lab2/
+├── Lab3/
+│   └── Supporting/
+└── Lab4_Fishing_VibeCoding/
+```
